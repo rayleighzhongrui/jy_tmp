@@ -1,0 +1,5 @@
+{
+  "name": "JD AI Shopping Assistant",
+  "description": "A mobile-first AI shopping assistant demo featuring intent analysis, product recommendations, and real-time streaming responses.",
+  "requestFramePermissions": []
+}
